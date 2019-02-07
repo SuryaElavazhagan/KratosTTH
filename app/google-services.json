@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "16857697671",
+    "firebase_url": "https://kratostth.firebaseio.com",
+    "project_id": "kratostth",
+    "storage_bucket": "kratostth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16857697671:android:22663d3e264433b4",
+        "android_client_info": {
+          "package_name": "kratos.events.kratos_tth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16857697671-d5arj7vccb8h372rgq88luucf6m3bq3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kratos.events.kratos_tth",
+            "certificate_hash": "09ba8f0ca2f52fd065298062f3357c0835c60917"
+          }
+        },
+        {
+          "client_id": "16857697671-9usnpdn333jncnj4j6r32qs4fhb9av12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEekZe6W1OE7x31A8VGthR-bNVh-J5WlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16857697671-9usnpdn333jncnj4j6r32qs4fhb9av12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
