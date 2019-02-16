@@ -2,13 +2,21 @@
     <string name="app_name">Kratos-TTH</string>
     <string name="title">Technical Treasure Hunt</string>
     <string name="login">Login</string>
-    <string name="email_hint">Email</string>
+    <string name="email_hint">Name</string>
     <string name="phone_hint">Phone number</string>
     <string name="login_btn">Start</string>
     <string name="shared_preference_file">PlayerDetails</string>
-    <string name="current_question_number">CurrentQuestionNumber</string>
+    <string name="current_question_index">CurrentQuestionIndex</string>
     <string name="starting_time">StartingTime</string>
+    <string name="ending_time">EndingTime</string>
     <string name="submit_answer">Submit</string>
     <string name="permission_explaination">Please provide the permission to access your camera, you have to scan the QR code to know the next question</string>
     <string name="permission_request_button">Request permission</string>
+    <string name="question_as_image">Question as image</string>
+    <string name="your_answer_here">Your answer here</string>
+    <string name="is_event_ended">isEventEnded</string>
+    <string name="user_email">UserEmail</string>
+    <string name="user_mobile">UserMobile</string>
+    <string name="no_of_questions_answered">NoOfQuestionsAnswered</string>
+    <string name="result_info">Please show the results to Event coordinator or Send the screenshot to ssmeena221@gmail.com</string>
 </resources>
